@@ -217,7 +217,7 @@
   "Amazon Alexa Bots": "Amazon Alexa Bots",
   "Amount": "Montant",
   "An optional folder name where the uploaded asset will be stored. The public ID contains the full path of the uploaded asset, including the folder name.": "Un nom de dossier facultatif où l'actif téléchargé sera être stocké. L'ID public contient le chemin complet de l'actif téléchargé, y compris le nom du dossier.",
-      "Analytics": "Analytics",
+   "Analytics": "Analytiques",
   "Answer Text": "Texte de la réponse",
   "Answer Value": "Valeur de la réponse",
   "Answer": "Réponse",
