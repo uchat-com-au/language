@@ -1,6 +1,6 @@
 {
     "Bot Users": "Utilisateurs de robots",
-    "There is no undo process for that. Please enter DELETE to Proceed?": "Il n'y a pas de processus d'annulation pour cela. Veuillez saisir SUPPRIMER pour continuer?",
+    "There is no undo process for that. Please enter DELETE to Proceed?": "Il n'y a pas de processus d'annulation pour cela. Veuillez saisir DELETE pour continuer?",
     "Users": "Utilisateurs",
     "best selling products.": "produits les plus vendus.",
     "day": "journée",
@@ -3749,8 +3749,8 @@
     "You must NOT send more than one message": "Vous ne devez PAS envoyer plus d'un message",
     "You must have a live chat integration set to receive the message, and only the selected live chat integration provider will receive the message.": "Vous devez avoir une intégration de chat en direct définie pour recevoir le message, et seul le fournisseur d&#39;intégration de chat en direct sélectionné recevra le message.",
     "You need to connect Stripe Account to receive payment": "Vous devez vous connecter au compte Stripe pour recevoir le paiement",
-    "You need to enter DELETE to proceed.": "Vous devez saisir SUPPRIMER pour continuer.",
-    "You need to enter LINK to proceed.": "Vous devez saisir le LIEN pour continuer.",
+    "You need to enter DELETE to proceed.": "Vous devez saisir DELETE pour continuer.",
+    "You need to enter LINK to proceed.": "Vous devez saisir le LINK pour continuer.",
     "You need to enter UNLINK to proceed.": "Vous devez saisir UNLINK pour continuer.",
     "You need to select at least one sub flow.": "Vous devez sélectionner au moins un sous-flux.",
     "You should only use this for issues that cannot be resolved within 24 hours window": "Vous ne devez l'utiliser que pour les problèmes qui ne peuvent pas être résolus dans un délai de 24 heures",

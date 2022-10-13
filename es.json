@@ -3749,7 +3749,7 @@
     "You must NOT send more than one message": "NO debe enviar más de un mensaje",
     "You must have a live chat integration set to receive the message, and only the selected live chat integration provider will receive the message.": "Debe tener una integración de chat en vivo configurada para recibir el mensaje, y solo el proveedor de integración de chat en vivo seleccionado recibirá el mensaje.",
     "You need to connect Stripe Account to receive payment": "Necesitas conectar la cuenta de Stripe para recibir el pago",
-    "You need to enter DELETE to proceed.": "Debe ingresar ELIMINAR para continuar.",
+    "You need to enter DELETE to proceed.": "Debe ingresar DELETE para continuar.",
     "You need to enter LINK to proceed.": "Debe ingresar LINK para continuar.",
     "You need to enter UNLINK to proceed.": "Debe ingresar UNLINK para continuar.",
     "You need to select at least one sub flow.": "Debe seleccionar al menos un Subflujo.",
