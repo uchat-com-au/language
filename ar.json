@@ -1385,7 +1385,7 @@
     "Female": "Female",
     "Field Content": "Field Content",
     "Field is required": "Field is required",
-    "Field mame already exists in other field type or system fields.": "Field mame already exists in other field type or system fields.",
+    "Field name already exists in other field type or system fields.": "Field name already exists in other field type or system fields.",
     "Field name": "Field name",
     "Field update failed! Make sure the value is valid.": "Field update failed! Make sure the value is valid.",
     "Field updated!": "Field updated!",

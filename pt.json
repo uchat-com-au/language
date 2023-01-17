@@ -1385,7 +1385,7 @@
     "Female": "Fêmea",
     "Field Content": "Conteúdo de campo",
     "Field is required": "Campo é obrigatório",
-    "Field mame already exists in other field type or system fields.": "O campo mame já existe em outro tipo de campo ou campos do sistema.",
+    "Field name already exists in other field type or system fields.": "O campo mame já existe em outro tipo de campo ou campos do sistema.",
     "Field name": "Nome de campo",
     "Field update failed! Make sure the value is valid.": "Falha na atualização de campo! Certifique-se de que o valor é válido.",
     "Field updated!": "Campo atualizado!",

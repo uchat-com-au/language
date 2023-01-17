@@ -1385,7 +1385,7 @@
     "Female": "Dişi",
     "Field Content": "Alan İçeriği",
     "Field is required": "Alan gereklidir",
-    "Field mame already exists in other field type or system fields.": "Field Mame zaten diğer alan tipinde veya sistem alanlarında var.",
+    "Field name already exists in other field type or system fields.": "Field Mame zaten diğer alan tipinde veya sistem alanlarında var.",
     "Field name": "Alan adı",
     "Field update failed! Make sure the value is valid.": "Alan güncellemesi başarısız oldu! Değerin geçerli olduğundan emin olun.",
     "Field updated!": "Alan güncellendi!",

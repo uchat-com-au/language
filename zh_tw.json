@@ -1385,7 +1385,7 @@
     "Female": "女",
     "Field Content": "字段內容",
     "Field is required": "字段是必需的",
-    "Field mame already exists in other field type or system fields.": "字段 mame 已存在於其他字段類型或系統字段中。",
+    "Field name already exists in other field type or system fields.": "字段 mame 已存在於其他字段類型或系統字段中。",
     "Field name": "字段名",
     "Field update failed! Make sure the value is valid.": "字段更新失敗! 請確保該值有傚。",
     "Field updated!": "已更新字段 !",

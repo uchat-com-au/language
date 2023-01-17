@@ -1385,7 +1385,7 @@
     "Female": "נקבה",
     "Field Content": "תוכן שדה",
     "Field is required": "שדה נדרש",
-    "Field mame already exists in other field type or system fields.": "mame שדה כבר קיים בסוג שדה אחר או בשדות מערכת אחרים.",
+    "Field name already exists in other field type or system fields.": "mame שדה כבר קיים בסוג שדה אחר או בשדות מערכת אחרים.",
     "Field name": "שם שדה",
     "Field update failed! Make sure the value is valid.": "עדכון השדה נכשל! ודא שהערך תקף.",
     "Field updated!": "השדה עודכן!",

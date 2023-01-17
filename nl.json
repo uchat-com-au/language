@@ -1385,7 +1385,7 @@
     "Female": "Vrouwelijk",
     "Field Content": "Veldinhoud",
     "Field is required": "Veld is verplicht",
-    "Field mame already exists in other field type or system fields.": "Field mame bestaat al in andere veldtypen of systeemvelden.",
+    "Field name already exists in other field type or system fields.": "Field name bestaat al in andere veldtypen of systeemvelden.",
     "Field name": "Naam van het veld",
     "Field update failed! Make sure the value is valid.": "Veldupdate mislukt! Controleer of de waarde geldig is.",
     "Field updated!": "Veld bijgewerkt!",

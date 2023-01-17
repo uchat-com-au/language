@@ -1385,7 +1385,7 @@
     "Female": "Femelle",
     "Field Content": "Contenu du champ",
     "Field is required": "Champ requis",
-    "Field mame already exists in other field type or system fields.": "Le nom du champ existe déjà dans un autre type de champ ou dans des champs système.",
+    "Field name already exists in other field type or system fields.": "Le nom du champ existe déjà dans un autre type de champ ou dans des champs système.",
     "Field name": "Nom de domaine",
     "Field update failed! Make sure the value is valid.": "Échec de la mise à jour du champ! Assurez-vous que la valeur est valide.",
     "Field updated!": "Champ mis à jour !",
