@@ -65,7 +65,7 @@
     "Announcement": "הכרזה",
     "Announcements you create here will be sent to the Product Announcements section of the notifications modal window, informing your users about new features and improvements to your application.": "הכרזות שתיצור כאן יישלחו למקטע 'הכרזות על מוצרים' בחלון של ההתראות, ויודיעו למשתמשים שלך על פיצ’רים ושיפורים חדשים ביישום שלך.",
     "Announcements": "הכרזות",
-    "Another exporting job is processing, please try again later": "עבודת ייצוא נוספת נמצאת בעיבוד, אנא נסה שוב מאוחר יותר",
+    "Another job is processing, please try again later": "עבודה אחרת נמצאת בעיבוד, אנא נסה שוב מאוחר יותר",
     "Api Documentation": "תיעוד Api",
     "Api Key updated! But activate automation failed.": " מפתח ה- API עודכן! אבל הפעלת האוטומציה נכשלה.",
     "Api key must not be empty": "מפתח ה-API חייב להיות לא ריק",

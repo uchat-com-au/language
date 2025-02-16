@@ -65,7 +65,7 @@
     "Announcement": "ڕاگەیاندن",
     "Announcements you create here will be sent to the Product Announcements section of the notifications modal window, informing your users about new features and improvements to your application.": "ئەو ڕاگەیاندنانەی لێرەدا دروستی دەکەیت دەنێردرێت بۆ بەشی ڕاگەیاندنی بەرهەم لە پەنجەرەی مۆداڵی ئاگادارکردنەوەکان، بەکارهێنەرانتان لە تایبەتمەندییە نوێیەکان و باشترکردنی بەرنامەکەتان ئاگادار دەکەنەوە.",
     "Announcements": "ڕاگەیاندنەکان",
-    "Another exporting job is processing, please try again later": "کارێکی تری هەناردەکردن بریتییە لە پرۆسێسکردن، تکایە دواتر هەوڵبدەرەوە",
+    "Another job is processing, please try again later": "کارێکی تر پرۆسێسکردنە، تکایە دواتر هەوڵبدەرەوە",
     "Api Documentation": "بەڵگەنامەسازی Api",
     "Api Key updated! But activate automation failed.": "کلیلی ئاپی نوێکرایەوە! ",
     "Api key must not be empty": "نابێت کلیلی Api بەتاڵ بێت",

@@ -65,7 +65,7 @@
     "Announcement": "Bekanntmachung",
     "Announcements you create here will be sent to the Product Announcements section of the notifications modal window, informing your users about new features and improvements to your application.": "Ankündigungen, die Sie hier erstellen, werden an den Abschnitt Produktankündigungen des modalen Fensters für Benachrichtigungen gesendet, um Ihre Benutzer über neue Funktionen und Verbesserungen Ihrer Anwendung zu informieren.",
     "Announcements": "Ankündigungen",
-    "Another exporting job is processing, please try again later": "Ein anderer Exportauftrag wird gerade verarbeitet. Bitte versuchen Sie es später noch einmal",
+    "Another job is processing, please try again later": "Ein anderer Auftrag wird verarbeitet. Bitte versuchen Sie es später erneut.",
     "Api Documentation": "API-Dokumentation",
     "Api Key updated! But activate automation failed.": "API-Schlüssel aktualisiert! Aber die Aktivierung der Automatisierung ist fehlgeschlagen.",
     "Api key must not be empty": "API-Schlüssel darf nicht leer sein",

@@ -65,7 +65,7 @@
     "Announcement": "발표",
     "Announcements you create here will be sent to the Product Announcements section of the notifications modal window, informing your users about new features and improvements to your application.": "여기에서 생성한 알림은 알림 모달 창의 제품 알림 섹션으로 전송되어 사용자에게 애플리케이션의 새로운 기능 및 개선 사항을 알립니다.",
     "Announcements": "공지사항",
-    "Another exporting job is processing, please try again later": "다른 내보내기 작업을 처리 중입니다. 나중에 다시 시도해 주세요.",
+    "Another job is processing, please try again later": "다른 작업이 처리 중입니다. 나중에 다시 시도하세요.",
     "Api Documentation": "API 설명서",
     "Api Key updated! But activate automation failed.": "API 키가 업데이트되었습니다! 그러나 자동화 활성화에 실패했습니다.",
     "Api key must not be empty": "API 키는 비워둘 수 없습니다.",

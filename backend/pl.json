@@ -65,7 +65,7 @@
     "Announcement": "Anons",
     "Announcements you create here will be sent to the Product Announcements section of the notifications modal window, informing your users about new features and improvements to your application.": "Utworzone tutaj ogłoszenia będą wysyłane do sekcji ogłoszenia o produktach w oknie modalnym powiadomień, informując użytkowników o nowych funkcjach i ulepszeniach aplikacji.",
     "Announcements": "Anonsy",
-    "Another exporting job is processing, please try again later": "Trwa przetwarzanie innego zadania eksportu. Spróbuj ponownie później",
+    "Another job is processing, please try again later": "Inne zadanie jest w trakcie przetwarzania, spróbuj ponownie później",
     "Api Documentation": "Dokumentacja API",
     "Api Key updated! But activate automation failed.": "API Key zaktualizowany! Ale aktywacja automatyzacji nie powiodła się.",
     "Api key must not be empty": "API klucz nie może być pusty",

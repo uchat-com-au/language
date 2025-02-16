@@ -65,7 +65,7 @@
     "Announcement": "Thông báo",
     "Announcements you create here will be sent to the Product Announcements section of the notifications modal window, informing your users about new features and improvements to your application.": "Thông báo bạn tạo ở đây sẽ được gửi đến phần Thông báo sản phẩm của cửa sổ chế độ thông báo, thông báo cho người dùng của bạn về các tính năng và cải tiến mới cho ứng dụng của bạn.",
     "Announcements": "thông báo",
-    "Another exporting job is processing, please try again later": "Một công việc xuất khác đang được xử lý, vui lòng thử lại sau",
+    "Another job is processing, please try again later": "Một công việc khác đang được xử lý, vui lòng thử lại sau",
     "Api Documentation": "Tài liệu Api",
     "Api Key updated! But activate automation failed.": "Khóa Api được cập nhật! Nhưng kích hoạt tự động hóa không thành công.",
     "Api key must not be empty": "Khóa api không được để trống",

@@ -65,7 +65,7 @@
     "Announcement": "إعلان",
     "Announcements you create here will be sent to the Product Announcements section of the notifications modal window, informing your users about new features and improvements to your application.": "سيتم إرسال الإعلانات التي تقوم بإنشائها هنا إلى قسم إعلانات المنتج في نافذة الإشعارات، مما يخبر مستخدميك بالميزات الجديدة والتحسينات في تطبيقك.",
     "Announcements": "الإعلانات",
-    "Another exporting job is processing, please try again later": "جاري معالجة مهمة تصدير أخرى، يرجى المحاولة مرة أخرى لاحقًا",
+    "Another job is processing, please try again later": "جاري معالجة مهمة أخرى، يرجى المحاولة مرة أخرى لاحقًا",
     "Api Documentation": "وثائق واجهة البرمجة",
     "Api Key updated! But activate automation failed.": "تم تحديث مفتاح واجهة البرمجة! ولكن فشل تفعيل الأتمتة.",
     "Api key must not be empty": "يجب ألا يكون مفتاح واجهة البرمجة فارغًا",

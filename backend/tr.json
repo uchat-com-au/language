@@ -65,7 +65,7 @@
     "Announcement": "Duyuru",
     "Announcements you create here will be sent to the Product Announcements section of the notifications modal window, informing your users about new features and improvements to your application.": "Burada oluşturduğunuz duyurular, bildirimler modal penceresinin ürün duyuruları bölümüne gönderilecek ve kullanıcılarınıza uygulamanızdaki yeni özellikler ve iyileştirmeler hakkında bilgi verilecektir.",
     "Announcements": "Duyurular",
-    "Another exporting job is processing, please try again later": "Başka bir dışa aktarma işi işleniyor, lütfen daha sonra tekrar deneyin",
+    "Another job is processing, please try again later": "Başka bir iş işleniyor, lütfen daha sonra tekrar deneyin",
     "Api Documentation": "API belgeleri",
     "Api Key updated! But activate automation failed.": "API Anahtarı Güncellendi! Ama Etkinleştir başarısız oldu.",
     "Api key must not be empty": "API anahtarı boş olamaz",

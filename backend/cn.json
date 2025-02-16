@@ -65,7 +65,7 @@
     "Announcement": "宣布",
     "Announcements you create here will be sent to the Product Announcements section of the notifications modal window, informing your users about new features and improvements to your application.": "您在此处创建的公告将被发送到通知模式窗口的产品公告部分，通知您的用户您的应用程序的新功能和改进。",
     "Announcements": "公告",
-    "Another exporting job is processing, please try again later": "另一个导出作业正在处理，请稍后重试",
+    "Another job is processing, please try again later": "另一项任务正在处理中，请稍后重试",
     "Api Documentation": "API 文档",
     "Api Key updated! But activate automation failed.": "Api Key 更新了！但激活自动化失败。",
     "Api key must not be empty": "API 键不能为空",

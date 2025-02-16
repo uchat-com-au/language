@@ -65,7 +65,7 @@
     "Announcement": "Aankondiging",
     "Announcements you create here will be sent to the Product Announcements section of the notifications modal window, informing your users about new features and improvements to your application.": "Aankondigingen die u hier maakt, worden verzonden naar het gedeelte Productaankondigingen van het modale venster meldingen, om uw gebruikers te informeren over nieuwe functies en verbeteringen aan uw toepassing.",
     "Announcements": "Aankondigingen",
-    "Another exporting job is processing, please try again later": "Er wordt een andere exporttaak verwerkt. Probeer het later opnieuw",
+    "Another job is processing, please try again later": "Er wordt een andere taak verwerkt, probeer het later opnieuw.",
     "Api Documentation": "Api Documentatie",
     "Api Key updated! But activate automation failed.": "Api Key bijgewerkt! Maar het activeren van automatisering mislukte.",
     "Api key must not be empty": "Api-sleutel mag niet leeg zijn",

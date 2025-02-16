@@ -65,7 +65,7 @@
     "Announcement": "アナウンス",
     "Announcements you create here will be sent to the Product Announcements section of the notifications modal window, informing your users about new features and improvements to your application.": "ここで作成したアナ",
     "Announcements": "アナウンス",
-    "Another exporting job is processing, please try again later": "別のエクスポート ジョブを処理中です。後でもう一度お試しください。",
+    "Another job is processing, please try again later": "別のジョブが処理中です。しばらくしてからもう一度お試しください。",
     "Api Documentation": "APIドキュメント",
     "Api Key updated! But activate automation failed.": "APIキーが更新されました！ただし、自動アクティベーションに失敗しました。",
     "Api key must not be empty": "APIキーは空であってはなりません",

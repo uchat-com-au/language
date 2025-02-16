@@ -65,7 +65,7 @@
     "Announcement": "Announcement",
     "Announcements you create here will be sent to the Product Announcements section of the notifications modal window, informing your users about new features and improvements to your application.": "Announcements you create here will be sent to the Product Announcements section of the notifications modal window, informing your users about new features and improvements to your application.",
     "Announcements": "Announcements",
-    "Another exporting job is processing, please try again later": "Another exporting job is processing, please try again later",
+    "Another job is processing, please try again later": "Another job is processing, please try again later",
     "Api Documentation": "Api Documentation",
     "Api Key updated! But activate automation failed.": "Api Key updated! But activate automation failed.",
     "Api key must not be empty": "Api key must not be empty",
