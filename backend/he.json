@@ -347,6 +347,7 @@
     "Enable": "אפשר",
     "Enabling": "מאפשר",
     "End to": "סוף ל",
+    "Error Code": "קוד שגיאה",
     "Error": "שגיאה",
     "Error, can not create bot on this account": "שגיאה, לא ניתן ליצור בוט בחשבון זה",
     "Error, can not create bot on this page": "שגיאה, לא ניתן ליצור בוט בדף זה",
@@ -1114,6 +1115,7 @@
         "": "לא מורשית."
     },
     "Unauthorized.": "לא מורשית.",
+    "Undelivered": "לא נמסר",
     "Unknown Error": "שגיאה לא ידועה",
     "Unknown Error, please make sure the provider is verified": "שגיאה לא ידועה, אנא ודא שהספק מאומת",
     "Unlaunch agent failed.": "נציג ההשקה נכשל.",
