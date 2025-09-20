@@ -6047,5 +6047,19 @@
     "you can choose to ignore the button and trigger a no match event to the question": "você pode optar por ignorar o botão e acionar um evento sem correspondência para a pergunta",
     "you can pass the parameters in the url": "você pode passar os parâmetros na url",
     "your custom domain": "seu domínio personalizado",
-    "your widget to specified Custom Field": "seu widget para campo personalizado especificado"
+    "your widget to specified Custom Field": "seu widget para campo personalizado especificado",
+    "Only mine (assigned to me)": "Somente minhas (atribuídas a mim)",
+    "Mine + unassigned": "Minhas + não atribuídas",
+    "Mine + my groups": "Minhas + meus grupos",
+    "Mine + my groups + unassigned": "Minhas + meus grupos + não atribuídas",
+    "General Chat Behavior": "Comportamento Geral do Chat",
+    "When bot is paused, append user and agent messages to AI Agent Messages if it is not empty": "Quando o bot estiver pausado, anexar mensagens do usuário e do agente às Mensagens do Agente de IA se não estiver vazio",
+    "Agent Controls": "Controles do Agente",
+    "Disable reassign by agent": "Desativar reatribuição pelo agente",
+    "UI & System Visibility": "Visibilidade da Interface e do Sistema",
+    "Owners and admins always see all conversations.": "Proprietários e administradores sempre veem todas as conversas.",
+    "Supervisors can see all the conversations.": "Os supervisores podem ver todas as conversas.",
+    "Unassigned means not assigned to agent or group": "Não atribuído significa não atribuído ao agente ou grupo",
+    "Supervisors only see conversations in their groups": "Os supervisores só veem conversas em seus grupos",
+    "Make Closing Note Category Mandatory": "Tornar obrigatória a Categoria da Nota de Encerramento"
 }
