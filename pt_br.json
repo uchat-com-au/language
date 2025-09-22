@@ -6047,5 +6047,11 @@
     "you can choose to ignore the button and trigger a no match event to the question": "você pode optar por ignorar o botão e acionar um evento sem correspondência para a pergunta",
     "you can pass the parameters in the url": "você pode passar os parâmetros na url",
     "your custom domain": "seu domínio personalizado",
-    "your widget to specified Custom Field": "seu widget para campo personalizado especificado"
+    "your widget to specified Custom Field": "seu widget para campo personalizado especificado",
+    "The status is Eligible": "O status é Elegível",
+    "Do you want to onboard your business to MM Lite API": "Você quer integrar sua empresa à API MM Lite?",
+    "Check Satus": "Verificar status",
+    "Check MM Lite Status": "Verifique o status do MM Lite",
+    "ONBOARDED": "INTEGRADO",
+    "The status is ONBOARDED": "O status é INTEGRADO"
 }
