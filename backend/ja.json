@@ -1211,6 +1211,7 @@
     "Watch our": "私たちを見る",
     "We can not find a user with that email address.": "そのメールアドレスを持つユーザーは見つかりません。",
     "We found your invitation to the :teamName workspace!": ":teamName ワークスペースへの招待状が見つかりました!",
+    "We have emailed your password reset link if an account with that email exists.": "該当のメールアドレスを持つアカウントが存在する場合、パスワードリセットリンクをメールで送信しました。",
     "We have emailed your password reset link!": "パスワードリセットリンクをメールで送信しました。",
     "WeChat": "WeChat",
     "WebChat Widget Powered By Partner": "パートナーが提供する WebChat ウィジェット",
